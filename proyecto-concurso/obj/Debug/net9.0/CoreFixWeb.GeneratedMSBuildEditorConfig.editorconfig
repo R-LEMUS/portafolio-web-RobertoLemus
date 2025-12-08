@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net9.0
+build_property.TargetFramework = net9.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CoreFixWeb
+build_property.RootNamespace = CoreFixWeb
+build_property.ProjectDir = C:\Users\rlemu\CoreFixWeb\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 9.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\rlemu\CoreFixWeb
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 9.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/rlemu/CoreFixWeb/wwwroot/_layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxfbGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Empleado/NuevoReporte.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9cTnVldm9SZXBvcnRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Empleado/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9cUmVwb3J0ZXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Empleado/SubirEvidencias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRW1wbGVhZG9cU3ViaXJFdmlkZW5jaWFzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Ingeniero/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5nZW5pZXJvXERldGFsbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Ingeniero/DetallesEquipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5nZW5pZXJvXERldGFsbGVzRXF1aXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Ingeniero/Equipos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5nZW5pZXJvXEVxdWlwb3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Ingeniero/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5nZW5pZXJvXFJlcG9ydGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Ingeniero/ReportesPorEquipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5nZW5pZXJvXFJlcG9ydGVzUG9yRXF1aXBvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Logout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9nb3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Supervisor/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwZXJ2aXNvclxEZXRhbGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Supervisor/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU3VwZXJ2aXNvclxSZXBvcnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Tecnico/Detalles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb1xEZXRhbGxlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Tecnico/DetallesEquipo.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb1xEZXRhbGxlc0VxdWlwby5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Tecnico/Reportes.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb1xSZXBvcnRlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Tecnico/SubirEvidencias.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcVGVjbmljb1xTdWJpckV2aWRlbmNpYXMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/rlemu/CoreFixWeb/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-oiti6kt25g
